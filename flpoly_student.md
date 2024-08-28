@@ -1,27 +1,27 @@
-## First Name Last Name
+## Alexandra Desaulniers
 
-### Term Year 
+### Masters 3 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Econ
 
-- Course 2
+- Thesis
 
-- Course 3
+- FDA
 
-- Course 4
+- HCI
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Reading
 
-- Thing 2
+- writing
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- darts as shown in this website <https://www.darts.com/>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2024/08/28
